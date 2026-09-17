@@ -1,0 +1,23 @@
+{
+  "packageId": "com.gratidao.meuacervo",
+  "host": "bancogratidaooficial-ops.github.io",
+  "name": "Gratidão - Meu Acervo",
+  "launcherName": "Gratidão",
+  "display": "standalone",
+  "themeColor": "#ffcc00",
+  "navigationColor": "#0e0e0e",
+  "backgroundColor": "#0e0e0e",
+  "enableNotifications": true,
+  "startUrl": "/Versao-66/",
+  "iconUrl": "https://bancogratidaooficial-ops.github.io/Versao-66/icon-512.png",
+  "maskableIconUrl": "https://bancogratidaooficial-ops.github.io/Versao-66/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersion": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli"
+}
