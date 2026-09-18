@@ -1,0 +1,21 @@
+{
+  "id": "/Versao-66/",
+  "name": "Gratidão V70",
+  "short_name": "Gratidão",
+  "start_url": "/Versao-66/index.html",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "/Versao-66/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Versao-66/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
